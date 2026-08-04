@@ -72,6 +72,12 @@ To design and develop a system that:
 
 ---
 
+## Block Diagram
+
+<img width="830" height="547" alt="image" src="https://github.com/user-attachments/assets/07e4038a-7d0a-4701-9ae2-21a20b1c02dc" />
+
+---
+
 ## 📁 Project Structure
 
 ```id="stru123"
@@ -97,8 +103,7 @@ Real-Time-User-Interactive-Wireless-Dot-Matrix-Display-System/
 ├── delay.c                # Delay functions
 ├── delay.h
 │
-├── utils.c                # Helper functions
-├── utils.h
+
 ```
 
 ---
