@@ -136,6 +136,11 @@ Real-Time-User-Interactive-Wireless-Dot-Matrix-Display-System/
 
 ## 📊 Example Outputs
 
+<img width="1300" height="1383" alt="image" src="https://github.com/user-attachments/assets/7fd85aa8-4b0a-44ee-b8df-c5aa5dac972c" />
+
+<img width="1300" height="1235" alt="image" src="https://github.com/user-attachments/assets/a2429dfc-b390-4ef7-9d8b-576e89cfdf54" />
+
+
 * 🔤 Fixed Text: `HELP`
 * 🔁 Scrolling: `PROJECT SUCCESSFULLY COMPLETED`
 * ⏰ Time: `09:30:23`
