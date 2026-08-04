@@ -72,7 +72,7 @@ To design and develop a system that:
 
 ---
 
-## 📁 Project Structure (C & Header Files Only)
+## 📁 Project Structure
 
 ```id="stru123"
 Real-Time-User-Interactive-Wireless-Dot-Matrix-Display-System/
